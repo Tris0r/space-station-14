@@ -14,7 +14,7 @@
 # Капюшон для плаща лороведов
 - type: entity
   parent: ClothingHeadHatHoodWinterBase
-  id: ClothingHeadHatLorovedCloack
+  id: ClothingHeadHatLorovedCloak
   name: the cloak of mastery
   description: A special cloak given to the guardians, whose purpose is to preserve the memory of the world.
   categories: [ HideSpawnMenu ]
