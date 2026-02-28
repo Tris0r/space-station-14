@@ -88,3 +88,12 @@
   storage:
     back:
     - ClothingSponsorNeckWikiEditors
+
+- type: loadout
+  id: LorovedsNeck
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: WikiEditSponsorTier
+  storage:
+    back:
+    - ClothingSponsorNeckLoroveds
