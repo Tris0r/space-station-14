@@ -173,7 +173,7 @@
   - type: Clothing
     sprite: SS220/Clothing/Sponsor/Neck/Cloak/loroved.rsi
   - type: ToggleableClothing
-    clothingPrototype: ClothingHeadHatLorovedCloack
+    clothingPrototype: ClothingHeadHatLorovedCloak
     requiredSlot:
     - neck
     slot: head
