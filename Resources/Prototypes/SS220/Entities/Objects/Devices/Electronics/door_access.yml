@@ -49,6 +49,14 @@
   - type: AccessReader
     access: [["Magistrate"]]
 
+- type: entity
+  parent: DoorElectronics
+  id: DoorElectronicsNanoTrasenRepresentative
+  suffix: NanoTrasen Representative, Locked
+  components:
+  - type: AccessReader
+    access: [["NanoTrasenRepresentative"]]
+
 # BlueShield access
 - type: entity
   parent: DoorElectronics
@@ -120,11 +128,11 @@
 #SS220 More_Centcomm_Prototypes
 - type: entity
   parent: DoorElectronics
-  id: DoorElectronicsCentralCommandBSO
-  suffix: BSO, Locked
+  id: DoorElectronicsCentralCommandSRT
+  suffix: SRT, Locked
   components:
   - type: AccessReader
-    access: [["CentralCommandBSO"]]
+    access: [["CentralCommandSRT"]]
 
 - type: entity
   parent: DoorElectronics
