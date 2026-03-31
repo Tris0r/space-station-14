@@ -164,7 +164,7 @@
 - type: entity
   parent: ClothingSponsorNeckBase
   id: ClothingSponsorNeckLoroveds
-  name: the cloak of mastery
+  name: the cloak of storytelling
   description: A special cloak given to the guardians, whose purpose is to preserve the memory of the world.
   suffix: Sponsor Neck, Loroved
   components:
