@@ -93,7 +93,7 @@
   id: LorovedsNeck
   effects:
   - !type:GroupLoadoutEffect
-    proto: WikiEditSponsorTier
+    proto: LoreEditSponsorTier
   storage:
     back:
     - ClothingSponsorNeckLoroveds
