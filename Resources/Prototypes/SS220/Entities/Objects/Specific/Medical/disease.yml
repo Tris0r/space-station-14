@@ -16,6 +16,7 @@
     - Recyclable
     - Trash
   - type: NarcoticsTest
+  - type: Forensics
   - type: Appearance
   - type: GenericVisualizer
     visuals:
