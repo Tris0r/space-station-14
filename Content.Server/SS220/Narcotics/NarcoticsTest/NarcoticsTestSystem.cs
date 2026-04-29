@@ -1,4 +1,4 @@
-﻿using Content.Server.SS220.RecentlyUsedNarcotics;
+using Content.Server.SS220.RecentlyUsedNarcotics;
 using Content.Shared.DoAfter;
 using Content.Shared.Forensics.Systems;
 using Content.Shared.Examine;
